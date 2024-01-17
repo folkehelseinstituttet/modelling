@@ -1,1 +1,5 @@
-# Hello world 2
+layout: page
+title: "PAGE-TITLE"
+permalink: /
+
+# Hello world?
