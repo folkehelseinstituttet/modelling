@@ -6,13 +6,13 @@ permalink: /
 
 
 ## Team members
-- Birgitte de Blasio (team scientific head & professor, scientific director)
-- Marissa Erin LeBlanc (team manager)
+- Birgitte de Blasio (team scientific head & professor, scientific director, PhD)
+- Marissa Erin LeBlanc (team manager, PhD)
 - Sasikiran Kandula (researcher)
-- Gunnar Øyvind Isaksson Rø (researcher)
-- Francesco di Ruscio (researcher)
+- Gunnar Øyvind Isaksson Rø (researcher, PhD)
+- Francesco di Ruscio (researcher, PhD)
 - Jonas Christoffer Lindstrøm (researcher)
 - Alfonso Diz-Lois Palomares (researcher & PhD candidate)
-- Jørgen Eriksson Midtbø (researcher)
+- Jørgen Eriksson Midtbø (researcher, PhD)
 - Ida-Marie Fauske Johansson (PhD candidate)
 - +++

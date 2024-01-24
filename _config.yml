@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: academic-jekyll-theme
 lsi: false
 safe: true
 source: "/"
