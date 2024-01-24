@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Sasikiran Kandula"
 ---
 
 Researcher - Physics & Astronomy

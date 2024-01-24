@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Gunnar Øyvind Isaksson Rø"
 ---
 
 Researcher - Physics & Astronomy
