@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-# Infectious disease modelling at Folkehelseinstituttet, the Norwegian Institute of Public Health
+
 
 
 ## Team members
