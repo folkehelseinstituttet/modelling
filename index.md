@@ -12,7 +12,7 @@ title: "Home"
 - Marissa Erin LeBlanc (team manager, PhD)
 - Sasikiran Kandula (researcher, MSc)
 - Gunnar Øyvind Isaksson Rø (researcher, PhD)
-- Francesco di Ruscio (researcher, PhD)
+- Francesco Di Ruscio (researcher, PhD)
 - Jonas Christoffer Lindstrøm (researcher, Msc)
 - Alfonso Diz-Lois Palomares (researcher, MSc & PhD candidate)
 - Jørgen Eriksson Midtbø (researcher, PhD)
