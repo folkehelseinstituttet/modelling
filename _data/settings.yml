@@ -15,7 +15,7 @@ people:
 - {name: 'Alfonso Diz-Lois Palomares', title: 'Researcher & PhD candidate', department: 'Methods Development and Analysis, NIPH & Department of Mathematics, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'Alfonso.Diz-LoisPalomares@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'alfonso'}
 - {name: 'Ida-Marie Fauske Johansson', title: 'PhD candidate', department: 'Methods Development and Analysis, NIPH & Department of Physics, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: 'assets/img/fhi_fjes.png', url: 'ida'}
 - {name: 'Marissa Erin LeBlanc', title: 'Section head & team manager, PhD', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'MarissaErin.LeBlanc@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'marissa'}
-- {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'JorgenEriksson.Midtbo@fhi.no', office: '', image: 'assets/img/jorgen.jpg', url: 'jorgen'}
+- {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'JorgenEriksson.Midtbo@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'jorgen'}
 
 projects:
 - {name: 'COVID-19 modelling', short: "Modelling covid-19 during the pandemic", url: '/projects/covid-19'}
