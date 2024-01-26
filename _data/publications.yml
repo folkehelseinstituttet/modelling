@@ -6,11 +6,14 @@ featured:
 
 index:
 - {name: '0. Chan LY, Rø G, Midtbø JE, Di Ruscio F, Watle SS, Juvet LK, Littmann J, Aavitsland P, Nygard KM, Berg AS, Bukholm G, Kristoffersen AB, Engø-Monsen K, Engebretsen S, Swanson D, Diz-Lois Palomares A, Lindstrøm JC, Frigessi A, de Blasio BF. Modeling geographic vaccination strategies for COVID-19 in Norway. medRxiv', url: 'https://doi.org/10.1101/2023.08.16.23294112'}
+
+2023   
 - {name: '1. Debes S, Haug JB, de Blasio BF, Lindstrøm JC, Jonassen CM, Dudman SG. Antibiotic Consumption in a Cohort of Hospitalized Adults with Viral Respiratory Tract Infection. Antibiotics. 2023 Apr 20;12(4):788.', url: 'https://doi.org/10.3390/antibiotics12040788'}
 - {name: '2. Engebretsen S, Diz-Lois Palomares A, Rø G, Kristoffersen AB, Lindstrøm JC, Engø-Monsen K, Kamineni M, Chan YH, Dale Ø, Midtbø JE, Stenerud KL, Di Ruscio F, White R, Frigessi A, de Blasio BF. A real-time regional model for COVID-19: Probabilistic situational awareness and forecasting. PLOS Computational Biology. 2023 Jan 23;19(1):e1010860', url: 'https://doi.org/10.1371/journal.pcbi.1010860'}
 - {name: '3. Kamineni M, Engø-Monsen K, Midtbø JE, Forland F, de Blasio BF, Frigessi A, Engebretsen S. Effects of non-compulsory and mandatory COVID-19 interventions on travel distance and time away from home, Norway, 2021. Eurosurveillance. 2023 Apr 27;28(17):2200382.', url: 'https://doi.org/10.2807/1560-7917.ES.2023.28.17.2200382'}
 - {name: '4. Storvik G, Diz-Lois Palomares A, Engebretsen S, Rø GØ, Engø-Monsen K, Kristoffersen AB, de Blasio BF, Frigessi A. A sequential Monte Carlo approach to estimate a time-varying reproduction number in infectious disease models: the Covid-19 case. Journal of the Royal Statistical Society Series A: Statistics in Society. 2023 Oct;186(4):616-32.', url: 'https://doi.org/10.1093/jrsssa/qnad043'}
 
+2022   
 - {name: '5. Jalali N, Brustad HK, Frigessi A, MacDonald EA, Meijerink H, Feruglio SL, Nygård KM, Rø G, Madslien EH, de Blasio BF. Increased household transmission and immune escape of the SARS-CoV-2 Omicron compared to Delta variants. Nature Communications. 2022 Sep 29;13(1):5706.', url: 'https://doi.org/10.1038/s41467-022-33233-9'}
 - {name: '6. Aarø LE, Veneti L, Vedaa Ø, Smith OR, de Blasio BF, Robberstad B. Visiting crowded places during the COVID-19 pandemic. A panel study among adult Norwegians. Frontiers in Public Health. 2022 Dec 15;10:1076090.', url: 'https://doi.org/10.3389/fpubh.2022.1076090'}
 - {name: '7. Vatn SS, Lindstrom JC, Moen AEF, Brackmann S, Tannæs TM, Olbjorn C, et al. Mucosal Gene Transcript Signatures in Treatment Naive Inflammatory Bowel Disease: A Comparative Analysis of Disease to Symptomatic and Healthy Controls in the European IBD-Character Cohort. Clinical and Experimental Gastroenterology. 2022;15:5-25.', url: 'https://doi.org/10.2147/CEG.S343468'}
