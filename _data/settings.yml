@@ -1,9 +1,9 @@
 menu:
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
-- {name: 'Projects', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'Contact', url: '/contact'}
+- {name: 'Projects', url: '/projects'}
+# - {name: 'cv', url: '/cv'}
+# - {name: 'Contact', url: '/contact'}
 
 people:
 - {name: 'Birgitte Freiesleben de Blasio', title: 'Professor and team scientific leader', department: 'Division for infection control, NIPH & Department of Medicine, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: 'Birgitte.Freiesleben.DeBlasio@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'birgitte'}
