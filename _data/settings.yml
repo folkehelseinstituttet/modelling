@@ -17,7 +17,7 @@ people:
 - {name: 'Marissa Erin LeBlanc', title: 'Section head & team manager, PhD', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'MarissaErin.LeBlanc@fhi.no', office: '', image: '', url: 'marissa'}
 - {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'JorgenEriksson.Midtbo@fhi.no', office: '', image: '', url: 'jorgen'}
 
-courses:
+projects:
 - {name: '', url: ''}
 
 social:
