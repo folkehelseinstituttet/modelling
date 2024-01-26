@@ -18,7 +18,7 @@ people:
 - {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'JorgenEriksson.Midtbo@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'jorgen'}
 
 projects:
-- {name: '', url: ''}
+- {name: 'covid', url: 'covid'}
 
 social:
 - {icon: 'github', link: 'https://github.com/folkehelseinstituttet'}
