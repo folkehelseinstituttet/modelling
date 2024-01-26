@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-We are a infectious disease modelling group at FHI, the Norwegian Institute of Public Health. We develop and apply statistical and mathematical methods and tools for a variety of infectious diseases. More recently we have been focused on Covid-19, and we continue to perform extensive modelling for the Institute's and Norwegian government's response to the pandemic. For a more detailed description of our Covid-related work, please check out our [Projects](/infectious_disease_modelling/projects) page. 
+We are an infectious disease modelling group at FHI, the Norwegian Institute of Public Health. We develop and apply statistical and mathematical methods and tools for a variety of infectious diseases. Since 2020 we have primarily focused on Covid-19 and continue to perform extensive modelling for the Institute's and Norwegian government's response to the pandemic. For a more detailed description of our Covid-related work, please check out our [Projects](/infectious_disease_modelling/projects) page. 
 
 Our work also extends to influenza and related respiratory infections, Hepatitis C, Varicella, multi-drug resistant pathogens, etc. (see [Publications](/infectious_disease_modelling/publications)).
 
