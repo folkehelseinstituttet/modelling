@@ -6,9 +6,15 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'Birgitte Freiesleben de Blasio', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'birgitte'}
-- {name: 'Gunnar Øyvind Isaksson Rø', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'gunnar'}
+- {name: 'Birgitte Freiesleben de Blasio', title: 'Professor and team scientific leader', department: 'Division for infection control, NIPH & Department of Medicine, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: '', office: '', image: 'assets/img/primary-investigator.jpg', url: 'birgitte'}
+- {name: 'Gunnar Øyvind Isaksson Rø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'gunnar'}
 - {name: 'Sasi Kandula', title: 'Senior Engineer', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'sasi'}
+- {name: 'Francesco Di Ruscio', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'francesco'}
+- {name: 'Jonas Christoffer Lindstrøm', title: 'Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'jonas'}
+- {name: 'Alfonso Diz-Lois Palomares', title: 'Researcher & PhD candidate', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'alfonso'}
+- {name: 'Ida-Marie Fauske Johansson', title: 'PhD candidate', department: 'Methods Development and Analysis, NIPH & Department of Physics, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'ida'}
+- {name: 'Marissa Erin LeBlanc', title: 'Section head & team manager, PhD', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'marissa'}
+- {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'jorgen'}
 
 courses:
 - {name: '', url: ''}
