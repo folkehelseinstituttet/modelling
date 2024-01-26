@@ -6,7 +6,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'Birgitte Freiesleben de Blasio', title: 'Professor and team scientific leader', department: 'Division for infection control, NIPH & Department of Medicine, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: '', office: '', image: 'assets/img/primary-investigator.jpg', url: 'birgitte'}
+- {name: 'Birgitte Freiesleben de Blasio', title: 'Professor and team scientific leader', department: 'Division for infection control, NIPH & Department of Medicine, University of Oslo', institution: 'Folkehelseinstituttet & UiO', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: '', office: '', image: 'assets/img/fhi_fjes.png', url: 'birgitte'}
 - {name: 'Gunnar Øyvind Isaksson Rø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'gunnar'}
 - {name: 'Sasi Kandula', title: 'Senior Engineer', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'sasi'}
 - {name: 'Francesco Di Ruscio', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: '', office: '', image: '', url: 'francesco'}
