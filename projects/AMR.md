@@ -6,7 +6,7 @@ title: "AMR Modelling"
 #### Methicillin-resistant *Staphylococcus aureus* (MRSA) transmission in Norway
  We have developed a stochastic agent-based model to investigate the spread of MRSA in community and healthcare settings in Norway [here](https://www.pnas.org/doi/abs/10.1073/pnas.1900959116)
 
- ![Schematic of the individual-based model developed in Di Ruscio *et al.*, 2019, to study the spread of MRSA in Norway.]({{'/assets/img/ABM.jpg'|absolute_url}})
+<img src="{{ '/assets/img/ABM.jpg' | absolute_url }}" alt="Schematic of the individual-based model developed in Di Ruscio et al., 2019, to study the spread of MRSA in Norway." width="300" height="200">
 
 #### Impact of the patient referral network on the spread of AMR
 
