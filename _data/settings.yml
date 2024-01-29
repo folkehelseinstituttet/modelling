@@ -18,12 +18,13 @@ people:
 - {name: 'Jørgen Eriksson Midtbø', title: 'Senior Researcher', department: 'Methods Development and Analysis', institution: 'Folkehelseinstituttet', institution_address: 'Lovisenberggata 8, 0456 Oslo', email: 'JorgenEriksson.Midtbo@fhi.no', office: '', image: 'assets/img/fhi_fjes.png', url: 'jorgen'}
 
 projects:
-- {name: 'COVID-19 modelling', short: "Modelling covid-19 during the pandemic", url: '/projects/covid-19'}
+- {name: 'COVID-19 modelling', short: "Our team provided situational awarness and scenario modelling for the Norwegain goverment during the covid-19 pandemic", url: '/projects/covid-19'}
+- {name: 'Surveillance and Forcasting', short: "We take part in national surveillance of respiratory diseases and cotribute to international forecasting hubs for covid-19 and influenza", url: '/projects/surveillance-forecasting'}
 - {name: 'Varicella', short: "Economic evaluation of varicella vaccination in Norway", url: ''}
 
 
 social:
-- {icon: 'github', link: 'https://github.com/folkehelseinstituttet'}
+- {icon: 'github', link: 'https://github.com/orgs/folkehelseinstituttet/teams/modelling/repositories'}
 - {icon: 'twitter', link: 'https://twitter.com/Folkehelseinst'}
 - {icon: 'instagram', link: 'https://www.instagram.com/folkehelseinstituttet/'}
 - {icon: 'linkedin', link: 'https://no.linkedin.com/company/norwegian-institute-of-public-health'}
