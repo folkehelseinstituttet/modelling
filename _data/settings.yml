@@ -22,7 +22,7 @@ projects:
 - {name: 'Surveillance and Forcasting', short: "We take part in national surveillance of respiratory diseases and cotribute to international forecasting hubs for covid-19 and influenza", url: '/projects/surveillance-forecasting'}
 - {name: 'Varicella', short: "We provide infectious disease modelling of varicella and herpes zoster in Norway with focus on economic cost-benefit analysis of potential vaccination campaigns, as part of a wider working group at NIPH.", url: ''}
 - {name: 'Hepatitis C', short: "We have recently worked together with NIPH epidemiologists to model the hepatitis C epidemic in Norway, focusing on prevalence and incidence of the disease, and the impact of treatment.", url: '/projects/hepatitis-c'}
-- {name: 'Antibiotic resistance', short: "We develop mathematical models to investigate the spread of resistant bacteria, such as methicillin-resistant  <i>Staphylococcus aureus<i/>. Our work also includes the study of the impact of patient referral networks on the spread of antimicrobial resistance (AMR) pathogens.", url: '/projects/AMR'}
+- {name: 'Antibiotic resistance', short: "We develop mathematical models to investigate the spread of resistant bacteria, such as methicillin-resistant  <i>Staphylococcus aureus</i>. Our work also includes the study of the impact of patient referral networks on the spread of antimicrobial resistance (AMR) pathogens.", url: '/projects/AMR'}
 
 
 social:
