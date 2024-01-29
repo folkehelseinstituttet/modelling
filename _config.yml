@@ -1,5 +1,5 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/infectious_disease_modelling" # the subpath of your site, e.g. /blog
-github.url: "/infectious_disease_modelling" # the subpath of your site, e.g. /blog
+baseurl: "/modelling" # the subpath of your site, e.g. /blog
+github.url: "/modelling" # the subpath of your site, e.g. /blog
 title: "Infectious Disease Modelling Group" # the name of your site, e.g. ACME Corp.
 description: "Norwegian Institute of Public Health (Folkehelseinstituttet)"
