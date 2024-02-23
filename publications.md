@@ -116,3 +116,34 @@ Vicedo-Cabrera AM, Scovronick N, Sera F, Royé D, Schneider R, Tobias A, Astrom 
  Nature climate change. 2021 Jun;11(6):492-500<br>
 
 ***
+### 2020 <br>
+- [**Accuracy of breast MRI in patients receiving neoadjuvant endocrine therapy: comprehensive imaging analysis and correlation with clinical and pathological assessments.**](https://doi.org/10.1007/s10549-020-05852-7) <br>
+ Reis J, Lindstrom JC, Boavida J, Gjesdal KI, Park D, Bahrami N, et al.<br>
+  Breast Cancer Research and Treatment. 2020;184(2):407-20. <br>
+  
+- [**Sudden emergence of a Neisseria gonorrhoeae Glade with reduced susceptibility to extended-spectrum cephalosporins, Norway.**](https://doi.org/10.1099/mgen.0.000480) <br>
+ Osnes MN, Didelot X, de Korne-Elenbaas J, Alfsnes K, Brynildsrud OB, Syversen G, […], de Blasio BF, […], et al.<br>
+ Microbial Genomics. 2020;6(12).<br>
+
+- [**Age, Inflammation, and Disease Location Are Critical Determinants of Intestinal Expression of SARS-CoV-2 Receptor ACE2 and TMPRSS2 in Inflammatory Bowel Disease.**](https://doi.org/10.1053/j.gastro.2020.05.030) <br>
+Nowak JK, Lindstrom JC, Kalla R, Ricanek P, Halfvarson J, Satsangi J. <br>
+Gastroenterology. 2020;159(3):1151.<br>
+
+- [**Model Selection with Lasso in Multi-group Structural Equation Models.**](https://doi.org/10.1080/10705511.2019.1638262) <br>
+Lindstrom JC, Dahl FA. <br>
+ Structural Equation Modeling-a Multidisciplinary Journal. 2020;27(1):33-42.<br>
+
+- [**Patient affect, physician liking for the patient, physician behavior, and patient reported outcomes: A modeling approach.**](https://doi.org/10.1016/j.pec.2020.01.003) <br>
+Gulbrandsen P, Lindstrom JC, Finset A, Hall JA.  <br>
+Patient Education and Counseling. 2020;103(6):1143-9. <br>
+
+- [**Time-aggregated mobile phone mobility data are sufficient for modelling influenza spread: the case of Bangladesh.**](https://doi.org/10.1098/rsif.2019.0809) <br>
+ Engebretsen S, Engo-Monsen K, Aleem MA, Gurley ES, Frigessi A, de Blasio BF.<br>
+ Journal of the Royal Society Interface. 2020;17(167).<br>
+
+- [**A simple stochastic model describing genomic evolution over time of GC content in microbial symbionts.**](https://doi.org/10.1016/j.jtbi.2020.110389) <br>
+Bohlin J, Rose B, Brynildsrud O, de Blasio BF.  <br>
+Journal of Theoretical Biology. 2020;503.<br>
+***
+
+
