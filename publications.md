@@ -2,6 +2,13 @@
 layout: publications
 title: "Publications"
 ---
+### 2024 <br>
+- [**Modeling geographic vaccination strategies for COVID-19 in Norway.**](https://doi.org/10.1371/journal.pcbi.1011426) <br>
+*Chan LY, Rø G, Midtbø JE, Di Ruscio F*, Watle SS, Juvet LK, Littmann J, Aavitsland P, Nygard KM, Berg AS, Bukholm G, Kristoffersen AB, Engø-Monsen K, Engebretsen S, Swanson D, *Diz-Lois Palomares A, Lindstrøm JC*, Frigessi A, *de Blasio BF* <br>
+PLOS Computational Biology. 20(1): e1011426<br>
+
+***
+
 ### 2023 <br>
 
 - [**Antibiotic Consumption in a Cohort of Hospitalized Adults with Viral Respiratory Tract Infection.**](https://doi.org/10.3390/antibiotics12040788) <br>
@@ -145,5 +152,4 @@ Patient Education and Counseling. 2020;103(6):1143-9. <br>
 Bohlin J, Rose B, Brynildsrud O, de Blasio BF.  <br>
 Journal of Theoretical Biology. 2020;503.<br>
 
-
-
+<br>
