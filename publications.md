@@ -144,6 +144,6 @@ Patient Education and Counseling. 2020;103(6):1143-9. <br>
 - [**A simple stochastic model describing genomic evolution over time of GC content in microbial symbionts.**](https://doi.org/10.1016/j.jtbi.2020.110389) <br>
 Bohlin J, Rose B, Brynildsrud O, de Blasio BF.  <br>
 Journal of Theoretical Biology. 2020;503.<br>
-***
+
 
 
