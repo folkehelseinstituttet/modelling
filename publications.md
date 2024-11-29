@@ -7,6 +7,14 @@ title: "Publications"
 *Chan LY, Rø G, Midtbø JE, Di Ruscio F*, Watle SS, Juvet LK, Littmann J, Aavitsland P, Nygard KM, Berg AS, Bukholm G, Kristoffersen AB, Engø-Monsen K, Engebretsen S, Swanson D, *Diz-Lois Palomares A, Lindstrøm JC*, Frigessi A, *de Blasio BF* <br>
 PLOS Computational Biology. 20(1): e1011426<br>
 
+- [**Monitoring Progress Towards the Elimination of Hepatitis C as a Public Health Threat in Norway: A Modelling Study Among People Who Inject Drugs and Immigrants.**](https://doi.org/10.1093/infdis/jiae147) <br>
+Robert Whittaker, *Jørgen E Midtbø*, Hilde Kløvstad <br>
+The Journal of Infectious Diseases, Volume 230, Issue 3, 15 September 2024, Pages e700–e711 <br>
+
+- [**Spatial and demographic heterogeneity in excess mortality in the United States, 2020-2023: a multi-model approach**](https://doi.org/10.1093/aje/kwae422) <br>
+*Sasikiran Kandula, Anja Bråthen Kristoffersen, Gunnar Rø, Marissa LeBlanc, Birgitte Freiesleben de Blasio* <br>
+American Journal of Epidemiology, 2024. <br>
+
 ***
 
 ### 2023 <br>
