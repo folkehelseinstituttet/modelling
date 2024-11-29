@@ -15,6 +15,11 @@ The Journal of Infectious Diseases, Volume 230, Issue 3, 15 September 2024, Page
 *Sasikiran Kandula, Anja Bråthen Kristoffersen, Gunnar Rø, Marissa LeBlanc, Birgitte Freiesleben de Blasio* <br>
 American Journal of Epidemiology, 2024. <br>
 
+- [**The influence of cross-border mobility on the COVID-19 epidemic in Nordic countries**]
+(https://doi.org/10.1371/journal.pcbi.1012182) <br>
+Mikhail Shubin, *Hilde Kjelgaard Brustad, Jørgen Eriksson Midtbø*, Felix Günther, Laura Alessandretti, Tapio Ala-Nissila,Gianpaolo Scalia Tomba, Mikko Kivelä, Louis Yat Hin Chan, Lasse Leskelä <br>
+PLOS Computational Biology, 2024. <br>
+
 ***
 
 ### 2023 <br>
