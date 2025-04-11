@@ -14,8 +14,7 @@ Public Health, 2025. 242, pp.131-138.<br>
 - [**Municipality assessment of temperature-related mortality risks in Norway.**](https://www.sciencedirect.com/science/article/pii/S0013935124025180) <br>
 Fernández LV, *Palomares ADL*, Vicedo-Cabrera AM, Gasparrini A, *de Blasio BF, Di Ruscio F*, Masselot P, Wisløff T, Rao-Skirbekk S  <br>
 Environmental research, 2025. 266, p.120614.<br>
-
-***    
+***
 
 ### 2024 <br>
 - [**Modeling geographic vaccination strategies for COVID-19 in Norway.**](https://doi.org/10.1371/journal.pcbi.1011426) <br>
