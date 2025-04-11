@@ -3,15 +3,15 @@ layout: publications
 title: "Publications"
 ---
 ### 2025 <br>
-[Estimating the trend of COVID-19 in Norway by combining multiple surveillance indicators](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317105)<br>
+- [Estimating the trend of COVID-19 in Norway by combining multiple surveillance indicators](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317105)<br>
 *Rø G*, Lyngstad TM, Seppälä E, Nærland Skodvin S, Trogstad L, White RA, Paulsen A, Hessevik Paulsen T, Skogset Ofitserova T, Langlete P, Madslien EH, Nygård K, *de Blasio BF*<br>
 PloS one, 2025. 20(1), p.e0317105.<br>
 
-[**A multi-model approach to estimate excess mortality in the Nordics, 2020–2023**](https://www.sciencedirect.com/science/article/pii/S0033350625001052?via%3Dihub)<br>
+- [**A multi-model approach to estimate excess mortality in the Nordics, 2020–2023**](https://www.sciencedirect.com/science/article/pii/S0033350625001052?via%3Dihub)<br>
 *Kandula S, Kristoffersen AB, Rø G, LeBlanc M, de Blasio BF*. <br>
 Public Health, 2025. 242, pp.131-138.<br>
 
-[**Municipality assessment of temperature-related mortality risks in Norway.**](https://www.sciencedirect.com/science/article/pii/S0013935124025180) <br>
+- [**Municipality assessment of temperature-related mortality risks in Norway.**](https://www.sciencedirect.com/science/article/pii/S0013935124025180) <br>
 Fernández LV, *Palomares ADL*, Vicedo-Cabrera AM, Gasparrini A, *de Blasio BF, Di Ruscio F*, Masselot P, Wisløff T, Rao-Skirbekk S  <br>
 Environmental research, 2025. 266, p.120614.<br>
 ***
