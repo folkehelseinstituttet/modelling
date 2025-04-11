@@ -3,7 +3,7 @@ layout: publications
 title: "Publications"
 ---
 ### 2025 <br>
-- [Estimating the trend of COVID-19 in Norway by combining multiple surveillance indicators](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317105)<br>
+- [**Estimating the trend of COVID-19 in Norway by combining multiple surveillance indicators**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317105)<br>
 *Rø G*, Lyngstad TM, Seppälä E, Nærland Skodvin S, Trogstad L, White RA, Paulsen A, Hessevik Paulsen T, Skogset Ofitserova T, Langlete P, Madslien EH, Nygård K, *de Blasio BF*<br>
 PloS one, 2025. 20(1), p.e0317105.<br>
 
