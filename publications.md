@@ -3,6 +3,10 @@ layout: publications
 title: "Publications"
 ---
 ### 2025 <br>
+- [**Real-time monitoring of excess mortality under a new endemic regime**](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.25.2400753)<br>
+*Kandula S, de Blasio BF, LeBlanc M*. <br>
+Eurosurveillance, 2025. 30(25), pii=2400753.<br>
+
 - [**Estimating the trend of COVID-19 in Norway by combining multiple surveillance indicators**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317105)<br>
 *Rø G*, Lyngstad TM, Seppälä E, Nærland Skodvin S, Trogstad L, White RA, Paulsen A, Hessevik Paulsen T, Skogset Ofitserova T, Langlete P, Madslien EH, Nygård K, *de Blasio BF*<br>
 PLOS One, 2025. 20(1), p.e0317105.<br>
