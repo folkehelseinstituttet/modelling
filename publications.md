@@ -6,7 +6,8 @@ title: "Publications"
 - [**Combining an agent-based model with Gaussian process emulation to model the emergence of the SARS-CoV-2 Omicron variant in Norway**](https://www.sciencedirect.com/science/article/pii/S1755436526000113)<br>
 *Palomares AD, De Blasio BF, Chan LY, Di Ruscio F, Midtbø JE* <br>
 Epidemics. 2026 Feb 17:100895.<br>
-***
+
+***    
 
 ### 2025 <br>
 - [**Real-time monitoring of excess mortality under a new endemic regime**](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.25.2400753)<br>
